@@ -22,7 +22,7 @@ None. See Installation instructions below for a list of applications.
 
 
 == Installation Instructions ==========
-Applications used for the Pandemic Movie project:
+Applications used for the Pandemic Watching project:
 - Jupyter Notebook
 - GitBash terminal
 - Visual Studio Code or similar text reader for the Readme.md
@@ -35,11 +35,12 @@ Similar applications may also work.
 
 
 == Operating Instructions =============
-Open the PandemicProject file in Jupyter Notebook.
+Open the Pandemic-Watching file in Jupyter Notebook.
 Review Analysis at the top of the notebook.
 Play/run all rows in order from top to bottom to review code output and data analysis.
 
 ATTENTION: IF you want to run this script, register to the API resources listed below and name the file api_key.py.
+
 
 == List of Files ====================
 \Pandemic-Watching
@@ -52,13 +53,11 @@ ATTENTION: IF you want to run this script, register to the API resources listed 
 
 
 == Data Set(s) =======================
-Data pulled from APIs. See API Resources below.
+Data originated from OMDB API (see API Resources below) and Flixible.csv data file.
 
 
 == API Resources =======================
 http://www.omdbapi.com/
-
-
 
 
 Registration is required to obtain personal APIs. Follow respective documentation at each website for more information.
@@ -66,9 +65,9 @@ APIs registered on: January 22, 2021
 
 
 == Data Alterations =======================
-None.
+OMDB API - rows were removed where votes and rating were null/empty.
 
-Analysis Impact: None.
+
 
 
 == Known Bugs =====================

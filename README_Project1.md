@@ -65,8 +65,12 @@ APIs registered on: January 22, 2021
 
 
 == Data Alterations =======================
-OMDB API - rows were removed where votes and rating were null/empty.
-
+OMDB API
+    Removed rows where votes and rating were null/empty.
+    Removed duplicate genres where genre name had an extra space (e.g. "Action" and " Action")
+Dataframe(s):
+    Removed outliers on votes
+    Deleted genres where there were no votes.
 
 
 

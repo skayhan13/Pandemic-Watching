@@ -10,7 +10,7 @@ The scope of the project will include the movies released between 2019 and 2020 
 ReadMe File
 ================
 
-Updated: Jan 31, 2021 | Created: Jan 31, 2021
+Updated: Feb 2, 2021 | Created: Jan 31, 2021
 Copyright: open source
 
 == License ===========================
@@ -53,25 +53,27 @@ ATTENTION: IF you want to run this script, register to the API resources listed 
 
 
 == Data Set(s) =======================
-Data originated from OMDB API (see API Resources below) and Flixible.csv data file.
 
+Statista - Netflix: number of subscribers worldwide 2020
+https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/#:~:text=Netflix%20had%20203.67%20million%20paid,Netflix's%20total%20global%20subscriber%20base
 
-== API Resources =======================
+worldometers.info
+Coronavirus Update (Live): 104,393,004 Cases and 2,262,795 Deaths from COVID-19 Virus Pandemic - Worldometer
+https://www.worldometers.info/coronavirus/
+
+The Open Movie Database
 http://www.omdbapi.com/
 
+The Movie Database
+https://developers.themoviedb.org/3
 
-Registration is required to obtain personal APIs. Follow respective documentation at each website for more information.
+Flixable
+https://flixable.com/
+
+URLs were last accessed:  January 31, 2021
+
+API Resources: Registration is required to obtain personal APIs. Follow respective documentation at each website for more information.
 APIs registered on: January 22, 2021
-
-
-== Data Alterations =======================
-OMDB API
-    Removed rows where votes and rating were null/empty.
-    Removed duplicate genres where genre name had an extra space (e.g. "Action" and " Action")
-Dataframe(s):
-    Removed outliers on votes
-    Deleted genres where there were no votes.
-
 
 
 == Known Bugs =====================
@@ -79,7 +81,7 @@ None.
 
 
 == Troubleshooting ===============
-#print hashtags are used liberally throughout the code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags are used for code notes/additional information.
+#print hashtags are used liberally throughout the Jupyter Notebook code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags are used for code notes/additional information.
 
 
 
@@ -92,4 +94,4 @@ Saturday, February 6, 2021
 Presented by: Alyson Amtman, Susan Farago, Sara Kayhan, Swati Oberoi Dham, Catherine Poirier, and Aishwarya Rao
 Colorado, United States
 
-Time to complete: approximately 22 hours
+Time to complete: approximately 45 hours.

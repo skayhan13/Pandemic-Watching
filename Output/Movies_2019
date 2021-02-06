@@ -1,0 +1,131 @@
+,MovieID,Title,Votes,Rating,Genre
+0,tt10279104,Hire a Woman,7,5.7,"['Comedy', ' Romance']"
+1,tt1527731,She Is,8,8.1,"['Short', ' Adventure', ' Drama', ' Musical', ' Romance']"
+2,tt9335498,Demon Slayer: Kimetsu No Yaiba,"23,929",8.7,"['Animation', ' Action', ' Fantasy', ' Thriller']"
+3,tt9854932,Pinkfong Wonderstar,10,7.1,['Animation']
+4,tt11287390,Al Acecho,118,5.1,['Thriller']
+5,tt5771332,QB1: Beyond the Lights,732,7.8,"['Documentary', ' Sport']"
+6,tt10338308,The Creative Brain,586,6.3,['Documentary']
+7,tt9543488,Too Handsome to Handle,351,6.9,"['Comedy', ' Drama']"
+8,tt2983222,Dare Me,"3,203",6.7,"['Crime', ' Mystery', ' Thriller']"
+9,tt9391692,Sakho & Mangane,71,6.8,"['Action', ' Mystery']"
+10,tt10555482,Isa Pa with Feelings,225,7.7,"['Comedy', ' Romance']"
+11,tt10589924,Bridezilla,38,5.8,"['Comedy', ' Drama']"
+12,tt10156112,"Hello, Love, Goodbye",785,7.3,"['Drama', ' Romance']"
+13,tt0041294,Diamond City,112,5.8,"['Drama', ' Adventure']"
+14,tt0159881,Jeopardy!,"6,062",8.2,['Game-Show']
+15,tt10640262,Eggnoid: Love & Time Portal,25,6.1,"['Drama', ' Fantasy', ' Romance', ' Sci-Fi']"
+16,tt9389622,Sakaling maging tayo,45,7.1,"['Comedy', ' Romance']"
+17,tt5932728,The Professor and the Madman,"34,358",7.3,"['Biography', ' Drama']"
+18,tt10637682,The Panti Sisters,194,5.5,['Comedy']
+19,tt11530234,"Kalel, 15",7,6.7,['Drama']
+20,tt1843230,Once Upon a Time,"207,986",7.7,"['Adventure', ' Fantasy', ' Romance']"
+21,tt12567164,Juman,33,5.5,"['Drama', ' Romance']"
+22,tt10044704,Between Maybes,111,6.3,"['Drama', ' Romance']"
+23,tt6610158,Rust Creek,"6,540",5.9,"['Crime', ' Drama', ' Thriller']"
+24,tt13445242,Spookley and the Christmas Kittens,58,3.6,"['Animation', ' Adventure', ' Drama', ' Family', ' Fantasy']"
+25,tt13483050,40 Sticks,N/A,N/A,['Thriller']
+26,tt0099429,Heart,"4,802",6.7,"['Comedy', ' Drama', ' Romance']"
+27,tt11916718,Beyblade Burst Rise,56,7.4,"['Animation', ' Action', ' Fantasy', ' Sport']"
+28,tt8748236,Killer Cove,414,4.3,['Thriller']
+29,tt1844624,American Horror Story,"276,441",8.0,"['Drama', ' Horror', ' Thriller']"
+30,tt11254858,Memories of a Teenager,428,6.5,['Drama']
+31,tt7937168,The Endless Trench,"4,672",7.2,"['Action', ' Adventure', ' Drama', ' History', ' Thriller', ' War']"
+32,tt9526822,Alone/Together,362,6.9,"['Drama', ' Romance']"
+33,tt5564124,60 Days In,"2,081",7.7,['Reality-TV']
+34,tt8244578,Christmas Break-In,"1,162",4.4,['Family']
+35,tt4680444,Forged in Fire,"2,685",8.4,"['Game-Show', ' Reality-TV']"
+36,tt6101862,Lego Jurassic World: The Indominus Escape,790,5.7,"['Animation', ' Action', ' Adventure', ' Comedy', ' Family', ' Sci-Fi']"
+37,tt13117332,LEGO Ninjago: Masters of Spinjitzu,20,7.2,"['Animation', ' Action', ' Adventure']"
+38,tt10332322,Lego City Adventures,95,7.3,"['Animation', ' Short', ' Action', ' Adventure', ' Comedy', ' Family']"
+39,tt7239256,Zumbo's Just Desserts,"1,840",6.9,['Reality-TV']
+40,tt8609926,Hidden in Plain Sight,677,4.2,['Thriller']
+41,tt9185316,I Am Woman,"1,483",6.5,"['Biography', ' Drama', ' Music', ' Romance']"
+42,tt8217188,Alice Júnior,344,6.8,['Comedy']
+43,tt1648186,Fisherman's Friends,"6,403",7.0,"['Comedy', ' Drama', ' Family', ' Music']"
+44,tt11497544,Dolly Parton: Here I Am,912,7.3,"['Documentary', ' Music']"
+45,tt8712750,A.M.I.,"1,650",3.9,"['Horror', ' Thriller']"
+46,tt6335714,Carlos Almaraz: Playing with Fire,36,7.4,['Documentary']
+47,tt0338309,Evil,"35,579",7.8,['Drama']
+48,tt0219822,Human Nature,"17,500",6.4,"['Comedy', ' Drama']"
+49,tt4384500,I'm Leaving Now,80,6.8,['Documentary']
+50,tt10702412,Secreto bien guardado,125,5.0,['Drama']
+51,tt0309276,The American Game,7,7.3,['Documentary']
+52,tt10329028,The Unicorn,"2,958",7.2,"['Comedy', ' Drama', ' Family']"
+53,tt10407902,Baxu and the Giants,40,7.0,"['Short', ' Drama', ' Family', ' Fantasy']"
+54,tt0338526,Van Helsing,"244,301",6.1,"['Action', ' Adventure', ' Fantasy']"
+55,tt13174524,High,"5,863",8.2,"['Crime', ' Drama', ' Thriller']"
+56,tt10515086,The Blue Elephant 2,"8,054",8.2,"['Crime', ' Drama', ' Horror', ' Mystery', ' Thriller']"
+57,tt2741602,The Blacklist,"195,694",8.0,"['Crime', ' Drama', ' Mystery', ' Thriller']"
+58,tt9319890,Bhai - Vyakti Ki Valli,402,8.2,['Drama']
+59,tt9319890,Bhai - Vyakti Ki Valli,402,8.2,['Drama']
+60,tt8907844,Kaagar,52,6.0,"['Crime', ' Drama']"
+61,tt5723056,Capital in the Twenty-First Century,"1,525",7.3,['Documentary']
+62,tt10217780,Kandasamys: The Wedding,28,6.6,['Comedy']
+63,tt10888456,The Lost Okoroshi,113,5.1,"['Action', ' Adventure', ' Drama']"
+64,tt9850064,Children of the Sea,"1,692",6.5,"['Animation', ' Adventure', ' Drama', ' Family', ' Fantasy', ' Mystery']"
+65,tt8788458,The Promised Neverland,"18,750",8.7,"['Animation', ' Adventure', ' Drama', ' Fantasy', ' Horror', ' Mystery', ' Sci-Fi', ' Thriller']"
+66,tt2866708,Strange But True,"3,213",5.8,['Thriller']
+67,tt7541106,1BR,"8,523",5.8,"['Drama', ' Horror', ' Thriller']"
+68,tt7913394,Norm of the North: Keys to the Kingdom,670,3.0,"['Animation', ' Adventure', ' Comedy', ' Family']"
+69,tt9602378,Good Kisser,243,4.4,"['Comedy', ' Drama', ' Romance']"
+70,tt0070643,Scarecrow,"15,480",7.3,['Drama']
+71,tt5037840,Drunk Parents,"6,206",3.9,['Comedy']
+72,tt9632590,An Easy Girl,"3,821",5.5,"['Comedy', ' Drama']"
+73,tt10686814,Terrace House: Tokyo 2019-2020,558,7.5,['Reality-TV']
+74,tt3909224,The Seven Deadly Sins,"21,975",8.1,"['Animation', ' Action', ' Adventure', ' Comedy', ' Fantasy']"
+75,tt0401792,Sin City,"737,973",8.0,"['Crime', ' Thriller']"
+76,tt6852872,Elizabeth Harvest,"6,810",5.8,"['Horror', ' Sci-Fi', ' Thriller']"
+77,tt1893256,Redemption,"65,914",6.2,"['Action', ' Crime', ' Drama']"
+78,tt5807330,Tread,"1,789",7.1,['Documentary']
+79,tt8718112,Nimbe: The Movie,46,5.2,['Drama']
+80,tt11273976,The Letter Reader,48,6.8,"['Short', ' Drama']"
+81,tt11904786,Love on the Spectrum,"2,787",8.5,"['Documentary', ' Reality-TV', ' Romance']"
+82,tt10011480,The Remix: Hip Hop X Fashion,66,7.0,"['Documentary', ' Music']"
+83,tt2076298,Ip Man 4: The Finale,"24,092",7.0,"['Action', ' Biography', ' Drama', ' History']"
+84,tt9636800,Gigantosaurus,94,7.5,['Animation']
+85,tt10912990,The Millions,28,5.5,"['Comedy', ' Thriller']"
+86,tt0168596,Cold Feet,"3,928",8.2,"['Comedy', ' Drama', ' Romance']"
+87,tt7605396,The Twelve,"3,627",7.5,"['Drama', ' Thriller']"
+88,tt11489288,Your Excellency,22,7.0,['N/A']
+89,tt9567112,A Kid from Coney Island,386,7.1,"['Documentary', ' Biography', ' Sport']"
+90,tt3984356,Only,"2,514",5.1,"['Drama', ' Romance', ' Sci-Fi']"
+91,tt10530392,Penalty,746,5.5,['Sport']
+92,tt0452568,Sugar Rush,"3,868",7.7,"['Drama', ' Romance']"
+93,tt5674718,Cable Girls,"11,820",7.6,['Drama']
+94,tt12058774,The Perfect Picture - Ten Years Later,36,6.3,"['Comedy', ' Romance']"
+95,tt9315008,21 Again,31,5.1,"['Documentary', ' Reality-TV']"
+96,tt9433014,"Abby Hatcher, Fuzzly Catcher",98,7.0,"['Animation', ' Adventure', ' Comedy', ' Family', ' Fantasy']"
+97,tt10655608,David Foster: Off the Record,346,6.8,['Documentary']
+98,tt8145202,The F**k-It List,"4,498",5.1,['Comedy']
+99,tt8099236,The Silence of Others,"1,624",8.0,['Documentary']
+100,tt6043142,Skin,"12,604",7.0,"['Biography', ' Crime', ' Drama', ' Romance']"
+101,tt10887282,Kasanova,28,6.5,['Romance']
+102,tt4667888,Slasher,"11,265",6.7,"['Crime', ' Drama', ' Horror', ' Mystery', ' Thriller']"
+103,tt7335104,Goldie,424,5.4,['Drama']
+104,tt11005162,Elevator Baby,51,6.9,['Drama']
+105,tt10965300,Lola Igna,135,7.5,['Drama']
+106,tt9856280,The Show Must Go On: The Queen + Adam Lambert Story,"1,478",7.9,['Documentary']
+107,tt11194492,Wira,302,6.3,['Action']
+108,tt5269594,Marcella,"23,566",7.4,"['Crime', ' Drama', ' Mystery']"
+109,tt10279102,4th Republic,18,6.5,['Thriller']
+110,tt7562112,Pose,"19,123",8.6,['Drama']
+111,tt0460681,Supernatural,"391,778",8.4,"['Drama', ' Fantasy', ' Horror', ' Mystery', ' Thriller']"
+112,tt1322930,Alone,"19,203",6.8,"['Drama', ' Romance']"
+113,tt10095402,Garth Brooks: The Road I'm On,197,7.3,['Documentary']
+114,tt7867670,122,"3,820",6.8,"['Horror', ' Thriller']"
+115,tt10773606,Kalek Shanab,26,5.9,"['Comedy', ' Drama']"
+116,tt6428150,High Strung Free Dance,"1,281",6.8,"['Music', ' Romance']"
+117,tt4323594,I'm No Longer Here,"4,852",7.3,['Drama']
+118,tt10627720,Ne Zha,"5,682",7.5,"['Animation', ' Action', ' Adventure', ' Family', ' Fantasy', ' Thriller']"
+119,tt7978538,Numberblocks,90,9.0,['Animation']
+120,tt4016454,Supergirl,"110,478",6.3,"['Action', ' Adventure', ' Drama', ' Sci-Fi']"
+121,tt5727208,Uncut Gems,"218,564",7.4,"['Crime', ' Drama', ' Thriller']"
+122,tt6128300,Dynasty,"14,699",7.3,['Drama']
+123,tt12539758,Living in Bondage: Breaking Free,54,5.9,['Drama']
+124,tt10349240,Mujeres Arriba,387,3.7,['Comedy']
+125,tt3107288,The Flash,"303,948",7.7,"['Action', ' Adventure', ' Drama', ' Sci-Fi']"
+126,tt3107288,The Flash,"303,948",7.7,"['Action', ' Adventure', ' Drama', ' Sci-Fi']"
+127,tt8530796,Light in the Dark,20,6.1,['Thriller']
+128,tt0077504,The End,"3,599",6.2,"['Comedy', ' Drama']"
+129,tt3501074,Madam Secretary,"19,894",7.6,['Drama']

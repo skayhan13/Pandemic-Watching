@@ -1,2 +1,175 @@
 ,MovieID,Title,Votes,Rating,Genre
-0,tt0452568,Sugar Rush,"3,868",7.7,"['Drama', ' Romance']"
+0,tt0038285,Accomplice,133,5.4,"['Film-Noir', ' Mystery', ' Thriller']"
+1,tt7268736,Kilometers and Kilometers,703,6.3,"['Adventure', ' Comedy', ' Drama']"
+2,tt9695258,So My Grandma's a Lesbian!,43,5.7,['Comedy']
+3,tt8431078,Friendsgiving,"1,050",4.3,"['Comedy', ' Drama']"
+4,tt3547306,Cut Throat City,"1,201",4.8,"['Action', ' Crime', ' Drama', ' Thriller']"
+5,tt10303430,Sightless,"3,780",5.4,"['Drama', ' Thriller']"
+6,tt1830643,Death of Me,"2,642",4.3,"['Horror', ' Mystery', ' Thriller']"
+7,tt11821818,Double Dad,N/A,N/A,"['Comedy', ' Drama', ' Family']"
+8,tt4254242,The Magicians,"42,920",7.6,"['Drama', ' Fantasy', ' Mystery']"
+9,tt9794630,The Vanished,"2,100",5.8,"['Action', ' Mystery', ' Thriller']"
+10,tt11841144,The Heartbreak Club,23,7.5,"['Comedy', ' Drama', ' Romance']"
+11,tt2216156,Last Tango in Halifax,"5,290",8.3,"['Comedy', ' Drama', ' Romance']"
+12,tt11799742,100% Halal,26,7.2,['Drama']
+13,tt11161474,Pieces of a Woman,"13,523",7.1,['Drama']
+14,tt13696668,Tony Parker: The Final Shot,768,6.8,"['Documentary', ' Biography', ' Sport']"
+15,tt6527456,Asphalt Burning,"1,254",5.1,"['Action', ' Comedy']"
+16,tt11247064,Full Out 2: You Got This!,293,4.6,['Family']
+17,tt2185037,Running Man,"2,586",8.9,"['Comedy', ' Game-Show', ' Reality-TV']"
+18,tt13649688,Best of Stand-up 2020,326,5.4,['Comedy']
+19,tt7569592,Chilling Adventures of Sabrina,"74,096",7.5,"['Drama', ' Fantasy', ' Horror', ' Mystery', ' Thriller']"
+20,tt11749980,Tarung Sarung,32,7.8,"['Action', ' Adventure', ' Drama', ' Sport', ' Thriller']"
+21,tt13563634,Best Leftovers Ever!,266,5.6,['Reality-TV']
+22,tt10973800,Equinox,"2,850",6.1,"['Drama', ' Fantasy', ' Mystery', ' Thriller']"
+23,tt13731400,SanPa: Sins of the Savior,919,7.9,"['Documentary', ' Crime', ' History']"
+24,tt13212006,The Rope Curse 2,200,4.7,['Horror']
+25,tt9789660,Transformers: War for Cybertron Trilogy,"2,347",7.4,"['Animation', ' Action', ' Sci-Fi']"
+26,tt8434720,A Love So Beautiful,949,8.1,"['Comedy', ' Romance']"
+27,tt0043606,Cops and Robbers,"1,337",7.7,"['Comedy', ' Drama']"
+28,tt13567480,Death to 2020,"24,892",6.9,['Comedy']
+29,tt0118912,DNA,"1,917",3.6,"['Action', ' Adventure', ' Horror', ' Sci-Fi', ' Thriller']"
+30,tt1905041,Fast & Furious 6,"367,661",7.1,"['Action', ' Adventure', ' Thriller']"
+31,tt8115702,Go! Go! Cory Carson,146,8.1,"['Animation', ' Family']"
+32,tt9642576,Regiment Diaries,50,9.1,['Documentary']
+33,tt0108847,The Magic School Bus,"8,251",7.9,"['Animation', ' Adventure', ' Comedy', ' Family', ' Fantasy', ' Sci-Fi']"
+34,tt11651796,AK vs AK,"9,904",7.1,"['Comedy', ' Crime', ' Drama', ' Thriller']"
+35,tt8740790,Bridgerton,"37,111",7.4,"['Drama', ' Romance']"
+36,tt10600398,We Can Be Heroes,"8,592",4.7,"['Action', ' Comedy', ' Drama', ' Family', ' Fantasy']"
+37,tt10539608,The Midnight Sky,"52,431",5.6,"['Drama', ' Fantasy', ' Sci-Fi', ' Thriller']"
+38,tt10329134,Your Name Engraved Herein,"2,345",7.2,"['Drama', ' Romance']"
+39,tt10362466,After We Collided,"15,620",5.0,"['Drama', ' Romance']"
+40,tt13528526,London Hughes: To Catch a Dick,196,4.4,['Comedy']
+41,tt13394544,Lovestruck in the City,301,7.3,"['Drama', ' Romance']"
+42,tt13517474,Qlimax: The Source,254,7.5,"['Music', ' Musical']"
+43,tt13530018,Rhyme Time Town Singalongs,N/A,N/A,"['Animation', ' Family']"
+44,tt5174284,Shaun the Sheep: The Farmer's Llamas,919,6.9,"['Animation', ' Short', ' Comedy', ' Family']"
+45,tt13615386,"Ariana Grande: Excuse Me, I Love You","1,564",6.5,"['Documentary', ' Music']"
+46,tt13583120,Rhys Nicholson: Live at the Athenaeum,116,7.6,['Comedy']
+47,tt12427840,Cocomelon,102,5.1,"['Animation', ' Comedy', ' Family']"
+48,tt10054316,Guest House,"1,263",4.4,['Comedy']
+49,tt10069398,Home for Christmas,"9,866",7.7,"['Comedy', ' Drama', ' Romance']"
+50,tt10514222,Ma Rainey's Black Bottom,"17,847",7.1,"['Drama', ' Music']"
+51,tt10514222,Ma Rainey's Black Bottom,"17,847",7.1,"['Drama', ' Music']"
+52,tt13206988,Paava Kadhaigal,"3,263",8.1,['Drama']
+53,tt13607632,An Unremarkable Christmas,84,3.7,"['Comedy', ' Drama']"
+54,tt10087694,Morphle,35,4.4,"['Animation', ' Adventure', ' Family']"
+55,tt13271834,Run On,209,7.8,"['Drama', ' Romance']"
+56,tt13607518,Schulz Saves America,830,7.5,['Comedy']
+57,tt13486136,Anitta: Made in Honório,303,6.8,"['Documentary', ' Biography', ' Music']"
+58,tt13570366,Break It All: The History of Rock in Latin America,762,7.7,"['Documentary', ' Biography', ' Music']"
+59,tt13492362,How to Ruin Christmas: The Wedding,276,5.8,"['Comedy', ' Drama']"
+60,tt13492374,The Ripper,"5,098",7.1,"['Documentary', ' Crime', ' Mystery']"
+61,tt13529992,Vir Das: Outside in - The Lockdown Special,141,6.8,['Comedy']
+62,tt10302548,Pup Academy,346,6.5,['Family']
+63,tt13110256,Song Exploder,480,7.4,"['Documentary', ' Music']"
+64,tt13055780,A California Christmas,"6,338",5.7,"['Comedy', ' Drama', ' Romance']"
+65,tt10767748,Tiny Pretty Things,"6,059",5.8,"['Drama', ' Mystery', ' Thriller']"
+66,tt13521850,The Netflix Afterparty,235,4.0,['Talk-Show']
+67,tt13458584,A Trash Truck Christmas,128,5.3,"['Animation', ' Family']"
+68,tt9711282,Canvas,"1,292",6.6,"['Animation', ' Short', ' Drama', ' Family']"
+69,tt11394338,Giving Voice,130,6.4,['Documentary']
+70,tt9731242,The Mess You Leave Behind,"4,844",6.8,"['Drama', ' Mystery', ' Thriller']"
+71,tt10161886,The Prom,"18,545",6.0,"['Comedy', ' Drama', ' Musical']"
+72,tt7805960,Torbaaz,"3,484",6.1,"['Action', ' Drama', ' Sport', ' Thriller']"
+73,tt10795658,Alice in Borderland,"13,507",7.8,"['Action', ' Fantasy', ' Mystery', ' Sci-Fi', ' Thriller']"
+74,tt13345636,Funny Boy,585,6.1,['Drama']
+75,tt10287954,Rose Island,"10,331",7.0,"['Adventure', ' Comedy', ' Drama']"
+76,tt10726356,The Big Show Show,"1,909",6.3,['Comedy']
+77,tt10380934,The Expanding Universe of Ashley Garcia,767,6.7,['Comedy']
+78,tt13487106,The Surgeon's Cut,620,8.5,['Documentary']
+79,tt0086855,André and Wally B.,"5,128",5.3,"['Animation', ' Short', ' Family']"
+80,tt13292206,Bobbleheads: The Movie,125,3.1,"['Animation', ' Family']"
+81,tt13458600,Emicida: AmarElo - It's All for Yesterday,883,8.7,"['Documentary', ' Music']"
+82,tt8403536,Mr. Iglesias,"5,404",7.1,['Comedy']
+83,tt6710836,Spirit Riding Free,798,6.6,"['Animation', ' Action', ' Adventure', ' Family', ' Western']"
+84,tt13439998,Super Monsters: Santa's Super Monster Helpers,25,4.5,"['Family', ' Animation']"
+85,tt8784956,Ava,"37,064",5.4,"['Action', ' Crime', ' Drama', ' Thriller']"
+86,tt13540900,Room 2806: The Accusation,"1,411",7.1,"['Documentary', ' Crime']"
+87,tt1701990,Detention,"14,883",5.7,"['Comedy', ' Horror', ' Mystery', ' Sci-Fi', ' Thriller']"
+88,tt13422586,Mighty Express: A Mighty Christmas,27,4.8,"['Animation', ' Family']"
+89,tt12775836,Bhaag Beanie Bhaag,"3,329",4.0,['Comedy']
+90,tt6524350,Big Mouth,"56,818",8.0,"['Animation', ' Comedy', ' Romance']"
+91,tt13411948,Captain Underpants: Mega Blissmas,89,5.8,"['Animation', ' Comedy', ' Family']"
+92,tt13446424,Christmas Crossfire,916,4.8,"['Comedy', ' Crime', ' Thriller']"
+93,tt13453828,Kings of Jo'burg,329,4.5,"['Crime', ' Thriller']"
+94,tt11792734,Leyla Everlasting,"6,410",3.8,['Comedy']
+95,tt10618286,Mank,"32,165",7.1,"['Biography', ' Comedy', ' Drama']"
+96,tt9421868,Selena: The Series,"2,556",6.6,"['Biography', ' Drama', ' Music']"
+97,tt1877368,The Great British Baking Show,"6,815",8.6,['Reality-TV']
+98,tt6693156,You Are My Home,267,6.9,['Family']
+99,tt13411942,Chico Bon Bon and the Very Berry Holiday,23,5.3,"['Animation', ' Family']"
+100,tt13354204,Just Another Christmas,"3,348",6.7,"['Comedy', ' Drama']"
+101,tt13464340,Alien Worlds,"2,374",6.5,"['Documentary', ' Sci-Fi']"
+102,tt10277516,Ari Eldjárn: Pardon My Icelandic,918,7.9,['Comedy']
+103,tt13574094,Check the Store Next Door: The Next Chapter,19,7.5,['Comedy']
+104,tt11692986,Fierce,591,5.5,"['Comedy', ' Music']"
+105,tt13400146,Hazel Brugger: Tropical,312,6.3,['Comedy']
+106,tt13260836,Angela's Christmas Wish,945,7.1,"['Animation', ' Adventure', ' Family']"
+107,tt10798934,Natalie Palamides: Nate - A One Man Show,253,6.3,['Comedy']
+108,tt3600266,Super Wings!,236,6.0,"['Animation', ' Adventure', ' Family', ' Sci-Fi']"
+109,tt13439972,The Holiday Movies that Made Us,588,7.2,"['Documentary', ' Family']"
+110,tt0102224,U-Turn,64,6.2,"['Action', ' Crime', ' Drama']"
+111,tt13328840,Finding Agnes,100,4.4,['Drama']
+112,tt11697484,The 2nd,"4,554",4.3,"['Action', ' Drama']"
+113,tt13273826,The Uncanny Counter,507,7.9,"['Action', ' Fantasy', ' Horror', ' Mystery']"
+114,tt13479662,A Go! Go! Cory Carson Christmas,28,6.2,"['Animation', ' Family']"
+115,tt8741182,Dance Dreams: Hot Chocolate Nutcracker,222,7.0,"['Documentary', ' Family']"
+116,tt13452100,Fabulous Lives of Bollywood Wives,"7,079",3.6,['Reality-TV']
+117,tt11951234,Over Christmas,"1,535",6.7,"['Comedy', ' Drama', ' Romance']"
+118,tt11168116,Sugar Rush Christmas,415,6.9,['Reality-TV']
+119,tt0072752,The Beast,"4,295",5.7,"['Drama', ' Fantasy', ' Horror', ' Romance']"
+120,tt1911644,The Call,"112,575",6.7,"['Crime', ' Drama', ' Horror', ' Thriller']"
+121,tt9077530,Virgin River,"18,609",7.5,"['Drama', ' Romance']"
+122,tt0462395,Larry the Cable Guy: Health Inspector,"10,449",3.3,"['Comedy', ' Romance']"
+123,tt9252468,Mosul,"18,785",7.1,"['Action', ' Drama', ' War']"
+124,tt6508228,Ghosts of War,"5,923",5.5,"['Horror', ' Thriller', ' War']"
+125,tt11680468,Great Pretender,"1,993",8.0,"['Animation', ' Adventure', ' Comedy', ' Crime']"
+126,tt13528990,Shawn Mendes: Live in Concert,127,7.6,['Music']
+127,tt2990140,The Christmas Chronicles,"61,760",7.0,"['Adventure', ' Comedy', ' Family', ' Fantasy']"
+128,tt9110340,Andhaghaaram,"2,440",7.7,"['Horror', ' Mystery', ' Thriller']"
+129,tt10687134,Dragons: Rescue Riders,181,6.1,"['Animation', ' Adventure', ' Comedy', ' Fantasy']"
+130,tt6772802,Hillbilly Elegy,"20,191",6.7,['Drama']
+131,tt13353486,Notes for My Son,583,6.2,['Drama']
+132,tt0076868,Valentino,"1,657",6.1,"['Biography', ' Drama']"
+133,tt11656172,Hard Kill,"8,955",4.1,"['Action', ' Thriller']"
+134,tt13276386,Shawn Mendes: In Wonder,"1,524",6.5,"['Documentary', ' Music']"
+135,tt8509922,Dolly Parton's Heartstrings,"1,804",7.6,"['Comedy', ' Drama', ' Music', ' Musical']"
+136,tt11332750,Alien Xmas,900,6.2,"['Animation', ' Short', ' Adventure', ' Comedy', ' Family', ' Fantasy', ' Sci-Fi']"
+137,tt11768948,If Anything Happens I Love You,"6,267",7.9,"['Animation', ' Short', ' Drama']"
+138,tt12719250,Mismatched,"2,587",5.3,"['Comedy', ' Drama', ' Romance']"
+139,tt11378154,The App That Stole Christmas,327,3.5,['Comedy']
+140,tt13329282,Voices of Fire,288,6.9,"['Music', ' Reality-TV']"
+141,tt8954732,The Princess Switch,"22,766",6.0,"['Comedy', ' Drama', ' Family', ' Romance']"
+142,tt13255112,Holiday Home Makeover with Mr. Christmas,223,5.6,['Reality-TV']
+143,tt9140354,Ainu Mosir,109,6.5,['Drama']
+144,tt13433082,Kevin Hart: Zero F**ks Given,"2,410",6.0,['Comedy']
+145,tt7741824,The Boss Baby: Back in Business,"2,457",6.4,"['Animation', ' Adventure', ' Comedy', ' Family', ' Fantasy']"
+146,tt12409154,We Are the Champions,903,7.1,"['Documentary', ' Game-Show']"
+147,tt8673042,Polly Pocket,64,6.8,"['Animation', ' Adventure', ' Comedy', ' Family', ' Fantasy']"
+148,tt4786824,The Crown,"144,815",8.7,"['Biography', ' Drama', ' History']"
+149,tt13502066,Fukrey Boyzzz: Space Mein Fukrapanti,N/A,N/A,"['Animation', ' Comedy', ' Family']"
+150,tt7736496,Jingle Jangle: A Christmas Journey,"14,851",6.5,"['Family', ' Fantasy', ' Musical']"
+151,tt12190648,The Beginning of Life 2: Outside,7,7.1,['Documentary']
+152,tt10627584,The Life Ahead,"6,461",6.8,['Drama']
+153,tt10147520,The Minions of Midas,"2,542",6.6,"['Crime', ' Drama', ' Thriller']"
+154,tt11301642,Ethos,"17,991",8.7,"['Drama', ' Thriller']"
+155,tt12531492,Graceful Friends,69,6.4,"['Crime', ' Drama', ' Mystery']"
+156,tt7212754,Ludo,"26,682",7.6,"['Action', ' Comedy', ' Crime', ' Drama']"
+157,tt12571792,A Queen Is Born,101,5.9,['Reality-TV']
+158,tt13316746,Aunty Donna's Big Ol' House of Fun,"4,175",8.0,['Comedy']
+159,tt2387513,The Liberator,"5,038",6.8,"['Biography', ' Drama', ' History']"
+160,tt13363298,Trial 4,"1,363",7.4,"['Documentary', ' Crime']"
+161,tt0108847,The Magic School Bus,"8,251",7.9,"['Animation', ' Adventure', ' Comedy', ' Family', ' Fantasy', ' Sci-Fi']"
+162,tt13479662,A Go! Go! Cory Carson Christmas,28,6.2,"['Animation', ' Family']"
+163,tt1877368,The Great British Baking Show,"6,815",8.6,['Reality-TV']
+164,tt6710836,Spirit Riding Free,798,6.6,"['Animation', ' Action', ' Adventure', ' Family', ' Western']"
+165,tt8228288,The Platform,"160,963",7.0,"['Horror', ' Sci-Fi', ' Thriller']"
+166,tt0108847,The Magic School Bus,"8,251",7.9,"['Animation', ' Adventure', ' Comedy', ' Family', ' Fantasy', ' Sci-Fi']"
+167,tt13479662,A Go! Go! Cory Carson Christmas,28,6.2,"['Animation', ' Family']"
+168,tt0452568,Sugar Rush,"3,868",7.7,"['Drama', ' Romance']"
+169,tt10687134,Dragons: Rescue Riders,181,6.1,"['Animation', ' Adventure', ' Comedy', ' Fantasy']"
+170,tt7741830,The Epic Tales of Captain Underpants,633,6.7,"['Animation', ' Short', ' Action', ' Adventure', ' Comedy', ' Family']"
+171,tt10687134,Dragons: Rescue Riders,181,6.1,"['Animation', ' Adventure', ' Comedy', ' Fantasy']"
+172,tt10050752,Mighty Little Bheem,184,6.5,"['Animation', ' Comedy']"
+173,tt11704040,Love Is Blind,"4,688",6.0,['Reality-TV']

@@ -15,32 +15,32 @@ USCAN:289.9 M
 World:774.7 M
 Total Covid-19 Cases (2020):297 M
 
-![casesvssubs](/images/casesvssubs.png)
+![casesvssubs](/Images/casesvssubs.png)
 
 **Top Genres by # Movies Released**
 2019: Drama, Comedy (972 = Total # Movies Released in 2019)
 2020: Drama, Comedy (877= Total # Movies Released in 2020)
 
-![moviesreleased2019](/images/moviesreleased2019.png)
-![moviesreleased2020](/images/moviesreleased2020.png)
+![moviesreleased2019](/Images/moviesreleased2019.png)
+![moviesreleased2020](/Images/moviesreleased2020.png)
 
 **Top Genres by Votes**
 2019: Action, Drama
 2020: Drama, Comedy
 
-![genrebyvotes](/images/genrebyvotes.png)
+![genrebyvotes](/Images/genrebyvotes.png)
 
 **Top Genres by Rating**
 2019: Comedy, Drama
 2020: Comedy, Drama
 
-![genresbyrating](/images/genresbyrating.png)
+![genresbyrating](/Images/genresbyrating.png)
 
 **Top Genres by Revenue**
 2019: Action, Crime
 2020: Drama, Action
 
-![genrebyrevenue](/images/genrebyrevenue.png)
+![genrebyrevenue](/Images/genrebyrevenue.png)
 
 ## ReadMe File Details
 Updated: April 24, 2021 | Created: Jan 31, 2021

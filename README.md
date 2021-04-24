@@ -1,38 +1,46 @@
 # Pandemic-Watching
 
 ## Project Summary
-Description: In March 2020, global travel restrictions were put into place as a response to the pandemic COVID-19. As a result, people turned to at-home entertainment. Our project analyzes the trends in Internet movie viewing habits. We will examine data between 2019 and 2020 and look for shifts in genre and identify any other significant changes in viewing patterns. While 2020 may have been a boom year for organizations such as Netflix and Zoom, it is going to be interesting to see the impact on their numbers (if any) once things get better.
+**Description:** 
+In March 2020, global travel restrictions were put into place as a response to the pandemic COVID-19. As a result, people turned to at-home entertainment. Our project analyzes the trends in Internet movie viewing habits. We will examine data between 2019 and 2020 and look for shifts in genre and identify any other significant changes in viewing patterns. While 2020 may have been a boom year for organizations such as Netflix and Zoom, it is going to be interesting to see the impact on their numbers (if any) once things get better.
 
-Scope and Purpose:  
+**Scope and Purpose:**  
 The scope of the project will include the movies released between 2019 and 2020 encompassing a wide variety of genres. This project will serve as a platform to analyze trends and will also help the industries in the future understand a little more about mental well-being and happiness as it relates to choice of entertainment. 
 
-Summary of Findings:
+**Summary of Findings:**
 The number of ratings of a given genre has a strong positive relationship to the number of movie votes in that genre.
 
-Total subscribers(2020):
+**Total subscribers(2020):**
 USCAN:289.9 M
-World: 774.7 M
-Total Covid-19 Cases (2020) : 297 M
+World:774.7 M
+Total Covid-19 Cases (2020):297 M
 
-Top Genres by # Movies Released
-2019: Drama, Comedy		(972 = Total # Movies Released in 2019)
-2020: Drama, Comedy		(877= Total # Movies Released in 2020)
+![casesvssubs](/images/casesvssubs.png)
 
-Top Genres by # Movies Released
-2019: Drama, Comedy
-2020: Drama, Comedy
+**Top Genres by # Movies Released**
+2019: Drama, Comedy (972 = Total # Movies Released in 2019)
+2020: Drama, Comedy (877= Total # Movies Released in 2020)
 
-Top Genres by Votes
+![moviesreleased2019](/images/moviesreleased2019.png)
+![moviesreleased2020](/images/moviesreleased2020.png)
+
+**Top Genres by Votes**
 2019: Action, Drama
 2020: Drama, Comedy
 
-Top Genres by Rating
+![genrebyvotes](/images/genrebyvotes.png)
+
+**Top Genres by Rating**
 2019: Comedy, Drama
 2020: Comedy, Drama
 
-Top Genres by Revenue
+![genresbyrating](/images/genresbyrating.png)
+
+**Top Genres by Revenue**
 2019: Action, Crime
 2020: Drama, Action
+
+![genrebyrevenue](/images/genrebyrevenue.png)
 
 ## ReadMe File Details
 Updated: April 24, 2021 | Created: Jan 31, 2021

@@ -56,7 +56,7 @@ Applications used for the Pandemic Watching project:
 
 Similar applications may also work.
 
-== Operating Instructions =============
+## Operating Instructions
 Open the ipynb files in Jupyter Notebook.
 Review analysis throughout the notebooks.
 Play/run all rows in order from top to bottom to review code output and data analysis.
@@ -64,14 +64,14 @@ Play/run all rows in order from top to bottom to review code output and data ana
 **ATTENTION:** If you want to run this script, register to the API resources listed below and name the file api_key.py.
 
 ## List of Files
-\Pandemic-Watching
-    README_Project1.md
-    covidnet_flix.ipynb
-    new_moviesDB_flix.ipynb
-    .gitignore
-    \Images
+- \Pandemic-Watching
+	- README_Project1.md
+	- covidnet_flix.ipynb
+	-new_moviesDB_flix.ipynb
+    -.gitignore
+- \Images
         Images related to Jupyter Notebooks
-    \Resources
+- \Resources
         Resources and data files related to Jupyter Notebooks
 
 ## Data Set(s) 

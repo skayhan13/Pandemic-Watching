@@ -68,7 +68,7 @@ Play/run all rows in order from top to bottom to review code output and data ana
 	- README_Project1.md
 	- covidnet_flix.ipynb
 	-new_moviesDB_flix.ipynb
-    -.gitignore
+- .gitignore (contains private API key)
 - \Images
         Images related to Jupyter Notebooks
 - \Resources

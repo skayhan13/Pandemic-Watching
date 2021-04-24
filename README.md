@@ -11,8 +11,8 @@ The scope of the project will include the movies released between 2019 and 2020 
 The number of ratings of a given genre has a strong positive relationship to the number of movie votes in that genre.
 
 **Total subscribers(2020):**
-USCAN:289.9 M
-World:774.7 M
+USCAN:  289.9 M
+World:  774.7 M
 Total Covid-19 Cases (2020):297 M
 
 ![casesvssubs](/Images/casesvssubs.png)
@@ -21,26 +21,26 @@ Total Covid-19 Cases (2020):297 M
 2019: Drama, Comedy (972 = Total # Movies Released in 2019)
 2020: Drama, Comedy (877= Total # Movies Released in 2020)
 
-![moviesreleased2019](/Images/moviesreleased2019.png)
-![moviesreleased2020](/Images/moviesreleased2020.png)
+![moviesreleased2019](/Images/moviesreleased2019.PNG)
+![moviesreleased2020](/Images/moviesreleased2020.PNG)
 
 **Top Genres by Votes**
 2019: Action, Drama
 2020: Drama, Comedy
 
-![genrebyvotes](/Images/genrebyvotes.png)
+![genrebyvotes](/Images/genrebyvotes.PNG)
 
 **Top Genres by Rating**
 2019: Comedy, Drama
 2020: Comedy, Drama
 
-![genresbyrating](/Images/genresbyrating.png)
+![genresbyrating](/Images/genresbyrating.PNG)
 
 **Top Genres by Revenue**
 2019: Action, Crime
 2020: Drama, Action
 
-![genrebyrevenue](/Images/genrebyrevenue.png)
+![genrebyrevenue](/Images/genrebyrevenue.PNG)
 
 ## ReadMe File Details
 Updated: April 24, 2021 | Created: Jan 31, 2021
